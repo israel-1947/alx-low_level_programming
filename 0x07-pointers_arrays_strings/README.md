@@ -1,1 +1,1 @@
-more assignments on pointers arrays strings
+more assignments pointers arrays strings
