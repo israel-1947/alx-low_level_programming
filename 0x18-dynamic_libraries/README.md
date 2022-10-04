@@ -1,1 +1,1 @@
-Dynamic libraries assignment
+Dynamic libraries
